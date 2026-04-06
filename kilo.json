@@ -1,0 +1,12 @@
+{
+  "default_agent": "principal",
+  "instructions": [
+    "AGENTS.md",
+    ".kilo/rules/*.md"
+  ],
+  "skills": {
+    "paths": [
+      ".kilo/skill"
+    ]
+  }
+}
